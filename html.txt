@@ -1,0 +1,6 @@
+Path select CMD
+git status 
+git repository
+git add .
+git commit -m "file name"
+git config --global user name .email
